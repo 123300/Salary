@@ -1,0 +1,8 @@
+D:\C# Practice\C Sharp Practice\C Sharp Practice\bin\Debug\C Sharp Practice.exe.config
+D:\C# Practice\C Sharp Practice\C Sharp Practice\bin\Debug\C Sharp Practice.exe
+D:\C# Practice\C Sharp Practice\C Sharp Practice\bin\Debug\C Sharp Practice.pdb
+D:\C# Practice\C Sharp Practice\C Sharp Practice\obj\Debug\C Sharp Practice.csprojAssemblyReference.cache
+D:\C# Practice\C Sharp Practice\C Sharp Practice\obj\Debug\C Sharp Practice.exe
+D:\C# Practice\C Sharp Practice\C Sharp Practice\obj\Debug\C Sharp Practice.pdb
+D:\C# Practice\C Sharp Practice\C Sharp Practice\obj\Debug\C_Sharp_Practice.UI_Form.resources
+D:\C# Practice\C Sharp Practice\C Sharp Practice\obj\Debug\C Sharp Practice.csproj.GenerateResource.cache
